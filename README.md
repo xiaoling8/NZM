@@ -51,8 +51,4 @@
 
 详细条款请参阅 [LICENSE](LICENSE) 文件。
 
-## 支持作者
 
-如果这个工具对您有帮助，可以在条件允许的情况下请作者喝杯咖啡
-
-![微信赞赏](public/images/donate-wechat.png)
